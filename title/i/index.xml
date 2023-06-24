@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>I on ossem: a creative space</title>
+    <link>/title/i/</link>
+    <description>Recent content in I on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/i/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>I</title>
+      <link>/words/2012/i/</link>
+      <pubDate>Sat, 18 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/i/</guid>
+      <description>I’ll step into your garden While following my bliss. Bliss, while misunderstood, is just a property of your path. It’s a compensation of thinking. That is: feeling. Back to your garden: There is a circle. There are two trees. Twins, I’d say. And then there’s this creepy shed. The leaves paint a path outside of the circle. All the while, I keep my eye steady for the people that might approach.</description>
+    </item>
+    
+  </channel>
+</rss>

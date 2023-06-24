@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arc on ossem: a creative space</title>
+    <link>/title/arc/</link>
+    <description>Recent content in Arc on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/arc/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Arc</title>
+      <link>/words/2011/09/arc/</link>
+      <pubDate>Sun, 18 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/09/arc/</guid>
+      <description>Shifting angles
+Dancing principles.
+A certain birdie knows
+Your deepest shows</description>
+    </item>
+    
+    <item>
+      <title>Arc</title>
+      <link>/words/2011/arc/</link>
+      <pubDate>Tue, 05 Jul 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/arc/</guid>
+      <description>Step Four. Nothing more. Nothing less. Universe can be explained to you. To me. Your answer is your key. It’s simple. Masterpiece. A matter of relativity. You hold in your hands this matter. It’s a silver platter. Subject to respect Circumspection Restoration. Your spirit holds The inseminated images Of cinema. Unfolding your mind In a myriad of different fathoms. A bird’s beak is a delicate name, madam. In this Scorpio’s nest, a Brother brings his best.</description>
+    </item>
+    
+    <item>
+      <title>Arc</title>
+      <link>/sketches/arc/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/sketches/arc/</guid>
+      <description>&amp;hellip; in action &amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

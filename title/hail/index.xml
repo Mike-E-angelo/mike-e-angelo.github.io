@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hail on ossem: a creative space</title>
+    <link>/title/hail/</link>
+    <description>Recent content in Hail on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 03 Nov 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/hail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hail</title>
+      <link>/stories/2005/hail/</link>
+      <pubDate>Thu, 03 Nov 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2005/hail/</guid>
+      <description>And there, walking along side of the parking building, Roger knew he was about to taste destiny.
+Roger was on his way to pick up some friends for the night out. They lived in a busy part of downtown. People lined the streets one either side, causing traffic to snarl its way throughout. Roger had just parked his car in the parking structure to the right of him and was on his way to his friends’ apartment two blocks south.</description>
+    </item>
+    
+  </channel>
+</rss>

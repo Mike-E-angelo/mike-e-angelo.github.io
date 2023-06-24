@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your on ossem: a creative space</title>
+    <link>/title/your/</link>
+    <description>Recent content in Your on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Dec 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/your/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Your</title>
+      <link>/words/2011/your/</link>
+      <pubDate>Sun, 04 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/your/</guid>
+      <description>stand proud
+Impermanence
+Is ray-bound.</description>
+    </item>
+    
+  </channel>
+</rss>

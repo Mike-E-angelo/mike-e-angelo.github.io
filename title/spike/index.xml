@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spike on ossem: a creative space</title>
+    <link>/title/spike/</link>
+    <description>Recent content in Spike on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 28 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/spike/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Spike</title>
+      <link>/words/2018/spike/</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2018/spike/</guid>
+      <description>Oh, the prowl The staking howl Sounds on the take A whisper make Where&amp;#39;s your pride Lost one? Looking for a Troubled ton Searching for your size and lies Only to find Your Lion Eyes</description>
+    </item>
+    
+  </channel>
+</rss>

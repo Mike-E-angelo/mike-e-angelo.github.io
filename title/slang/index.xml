@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slang on ossem: a creative space</title>
+    <link>/title/slang/</link>
+    <description>Recent content in Slang on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 06 Oct 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/slang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slang</title>
+      <link>/words/2014/slang/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2014/slang/</guid>
+      <description>Do you hear the sway
+Of guns and heart
+Of wishes and mantles
+Of death and start.</description>
+    </item>
+    
+  </channel>
+</rss>

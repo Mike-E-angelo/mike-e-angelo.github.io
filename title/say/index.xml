@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Say on ossem: a creative space</title>
+    <link>/title/say/</link>
+    <description>Recent content in Say on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 11 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/say/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Say</title>
+      <link>/words/2011/say/</link>
+      <pubDate>Tue, 11 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/say/</guid>
+      <description>Let’s walk over this tripwire. It’s a finewire. Superfire. Dancestep. Aged regret. Don’t talk yet. Moon dance. Hunted stance. Wolves in the background. And by our side. Simple outlets. Forced blocks. Don’t knock. Home base. Troubled base. A friend of who’s friend? On this battleground. It might be sound. But. I don’t get it. Ya, me too. Why would I keep you closer. If you’re my brother. And all that jazz.</description>
+    </item>
+    
+    <item>
+      <title>Say</title>
+      <link>/words/2005/say/</link>
+      <pubDate>Wed, 13 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2005/say/</guid>
+      <description>how do I show her
+the light in my sky?
+without showing her</description>
+    </item>
+    
+  </channel>
+</rss>

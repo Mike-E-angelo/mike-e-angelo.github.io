@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Try on ossem: a creative space</title>
+    <link>/title/try/</link>
+    <description>Recent content in Try on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 25 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/try/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Try</title>
+      <link>/words/2013/try/</link>
+      <pubDate>Thu, 25 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2013/try/</guid>
+      <description>She lights my world. In me. And i. am. Hers. I echo through Her landscape. Her sounds bound in bliss. Lighted by fire. Seething The Bright. I slide down Her magnificent high. And then She becomes me. The absurdity. I reign Her chaos so suddenly. We grasp upon the signs of dance. I am drowned in Her expanse. We celebrate the Godspace. Broken like bread on a tree’s face. She whispers.</description>
+    </item>
+    
+    <item>
+      <title>Try</title>
+      <link>/words/2005/try/</link>
+      <pubDate>Thu, 21 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2005/try/</guid>
+      <description>look in my eyes tell me how much you hate this game as you make your next move as you try to beat me chilling visions in our minds I see you before you think you see me dancing together unity prosperity illusions our reflections on bathroom floors your skin. our game is perfect don’t lie to me please. don’t stop lying to me</description>
+    </item>
+    
+  </channel>
+</rss>

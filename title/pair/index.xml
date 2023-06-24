@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pair on ossem: a creative space</title>
+    <link>/title/pair/</link>
+    <description>Recent content in Pair on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 20 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/pair/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pair</title>
+      <link>/prayers/2018/pair/</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/prayers/2018/pair/</guid>
+      <description>To Apollo, the god of strength and truth, from whom I learned the power of taking quiet solitude and the well-rounded value of keeping a well-formed opinion to one’s self. From a great many precepts, you taught me how to find and discern the many sides of an issue, while reserving judgement for only when it is absolutely required. To you, I am indebted to learning patience and fortitude, to understanding the harmonious workings of nature and man, and to keeping such courtesies within the realm of my consciousness.</description>
+    </item>
+    
+    <item>
+      <title>Pair</title>
+      <link>/sketches/pair/</link>
+      <pubDate>Fri, 01 Jan 1993 00:00:00 +0000</pubDate>
+      
+      <guid>/sketches/pair/</guid>
+      <description>From Babylon, a comic book idea.</description>
+    </item>
+    
+  </channel>
+</rss>

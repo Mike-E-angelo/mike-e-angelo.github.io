@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Murk on ossem: a creative space</title>
+    <link>/title/murk/</link>
+    <description>Recent content in Murk on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Aug 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/murk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Murk</title>
+      <link>/words/2005/murk/</link>
+      <pubDate>Thu, 04 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2005/murk/</guid>
+      <description>there’s wild water in that brown-eyed whirlwind I must confess, if it were any differently I would rescind. my sails will snag upon her force but I know it won’t take me far. for I have only traveled these waters mapped by other stars. troubled waters in a different time troubled waters these will be mine she’ll dash me further than I’ve been before. she’ll throw me further than my plans in store.</description>
+    </item>
+    
+  </channel>
+</rss>

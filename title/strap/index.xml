@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strap on ossem: a creative space</title>
+    <link>/title/strap/</link>
+    <description>Recent content in Strap on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Jan 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/strap/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Strap</title>
+      <link>/stories/2006/strap/</link>
+      <pubDate>Sun, 08 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2006/strap/</guid>
+      <description>The phone call was simple enough. She called to thank me. It was an innocent, innocuous moment, but something told me that I had just encountered a significant point in my life. It was almost as if I had passed a great moral test of some sort. I never met her, but here she was, thanking me in broken English. “Thank you, Greg. Thank you.”
+It was almost as if life itself, in some sort of twisted incarnation, was telling me something pivotal – something meaningful.</description>
+    </item>
+    
+  </channel>
+</rss>

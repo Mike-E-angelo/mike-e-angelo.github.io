@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Side on ossem: a creative space</title>
+    <link>/title/side/</link>
+    <description>Recent content in Side on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/side/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Side</title>
+      <link>/stories/2018/side/</link>
+      <pubDate>Sat, 16 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2018/side/</guid>
+      <description>With the monitors flickering upon his nearby, dark environment, Ron then wondered further that if the very reality that he is currently experiencing now is indeed a simulation of some sort &amp;ndash; with technology accelerating at a seemingly accelerating rate &amp;ndash; would it eventually culminate in the ability to accurately reflect the reality that Ron was in now?
+The idea struck Ron. Is the reality that Ron finds himself in now a result of jumping into a technology or program that started in the same way as he is currently experiencing?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documents on ossem: a creative space</title>
+    <link>/documents/</link>
+    <description>Recent content in Documents on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 02 Mar 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/documents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Notes</title>
+      <link>/documents/notes/</link>
+      <pubDate>Tue, 02 Mar 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/documents/notes/</guid>
+      <description>A little idea I had back in the day. Does the Earth speak to us in notes?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stare on ossem: a creative space</title>
+    <link>/title/stare/</link>
+    <description>Recent content in Stare on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Mar 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/stare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Stare</title>
+      <link>/stories/2007/stare/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2007/stare/</guid>
+      <description>Still. Those eyes are what I&amp;rsquo;ll remember: piercing, intense. If anything it was if he was telling me something on a much different level than anything I had been accustomed to. I got the sense we were playing an intergalactic game of tag and he had just stuck it to me good, as if to say &amp;ldquo;gotcha, you lucky bastard. This time it&amp;rsquo;s your turn.&amp;rdquo; On a certain level I understood him.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>George on ossem: a creative space</title>
+    <link>/title/george/</link>
+    <description>Recent content in George on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 18 Aug 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/george/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>George</title>
+      <link>/stories/2005/george/</link>
+      <pubDate>Thu, 18 Aug 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2005/george/</guid>
+      <description>And it was there with those eyes that George knew he made his mistake. Looking around with all these strangers, he could only grasp his memory by mere threads. How did he get here? Where were his friends? Where was he?
+So many people bristled at his presence in that old rusted house, the muffled music made him confused on whether he should be happy or sad. People stopped briefly in the hallway to dispense somewhat honest conversations.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tense on ossem: a creative space</title>
+    <link>/title/tense/</link>
+    <description>Recent content in Tense on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/tense/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tense</title>
+      <link>/words/2011/tense/</link>
+      <pubDate>Sun, 02 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/tense/</guid>
+      <description>It is a troubled sport
+How will you recollect
+Your deepest memory?</description>
+    </item>
+    
+  </channel>
+</rss>

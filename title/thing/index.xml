@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thing on ossem: a creative space</title>
+    <link>/title/thing/</link>
+    <description>Recent content in Thing on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jun 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/thing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thing</title>
+      <link>/words/2013/thing/</link>
+      <pubDate>Sun, 30 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2013/thing/</guid>
+      <description>A lover’s space, A hint of the unthinkable. A chord of trust. A messenger in God’s space. A forsaken plan. A song of pain. A coward’s trace, A trace of the predictable, A patio’s preface. A repetitive apology. A muse speaks. A maze breaks. A dance turns to words. A word turns to God. A riddle becomes God. A solution begins, A friendship trends, A team mends. A cycle of truth.</description>
+    </item>
+    
+  </channel>
+</rss>

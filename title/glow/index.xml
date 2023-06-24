@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glow on ossem: a creative space</title>
+    <link>/title/glow/</link>
+    <description>Recent content in Glow on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Jan 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/glow/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glow</title>
+      <link>/stories/2006/glow/</link>
+      <pubDate>Fri, 27 Jan 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2006/glow/</guid>
+      <description>Before I turned off the light to the room, I looked at the Buddha sitting on the shelf. He looked happy, as always; a certain vein of content flowed through the little statue. On this night I sort of related to the fellow. I sat there for a split second, captured and almost frozen, looking deep into his smile. A certain part of me saw myself in that chubby little cherub.</description>
+    </item>
+    
+  </channel>
+</rss>

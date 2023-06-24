@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Since on ossem: a creative space</title>
+    <link>/title/since/</link>
+    <description>Recent content in Since on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/since/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Since</title>
+      <link>/words/2016/since/</link>
+      <pubDate>Sun, 03 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2016/since/</guid>
+      <description>Something happened in the valley.
+The strange, and derelict.
+There are the words to say, to convey.
+A passing mind’s eye, a mighty shift.
+Tapestries are folded, in the flock of fools,
+Sewn together by raging stools.
+An adventure cut short, only to be abounded,
+And hounded, by pride and envy.
+A nature’s wrath comes full force,
+Only to beg for mercy.
+A time’s unwind, through space and twine,
+These are the mystery’s take, through due wine.</description>
+    </item>
+    
+  </channel>
+</rss>

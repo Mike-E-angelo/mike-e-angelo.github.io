@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modes on ossem: a creative space</title>
+    <link>/title/modes/</link>
+    <description>Recent content in Modes on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 09 Mar 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/modes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Modes</title>
+      <link>/words/2012/modes/</link>
+      <pubDate>Fri, 09 Mar 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/modes/</guid>
+      <description>Sleepy eye
+Angry shaman
+Wry guy
+Creating</description>
+    </item>
+    
+  </channel>
+</rss>

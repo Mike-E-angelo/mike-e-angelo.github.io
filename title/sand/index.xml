@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sand on ossem: a creative space</title>
+    <link>/title/sand/</link>
+    <description>Recent content in Sand on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Nov 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/sand/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sand</title>
+      <link>/words/2011/sand/</link>
+      <pubDate>Fri, 25 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/sand/</guid>
+      <description>A cool effervescence Of some sort. Don’t do what you do. Do what you do. To me, There are two forces in life, There’s the reptile And there’s the Space Angel === The art of these two warring fractions Is you. What does it mean To be free? A free man. Last time I checked. There are lots of definitions of free. We’re not gonna get there, are we? Someone over here says… Sin virtue and vice.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Truth on ossem: a creative space</title>
+    <link>/title/truth/</link>
+    <description>Recent content in Truth on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 18 Sep 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/truth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Truth</title>
+      <link>/words/2011/truth/</link>
+      <pubDate>Sun, 18 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/truth/</guid>
+      <description>Not glory
+Woman
+Not woman
+God</description>
+    </item>
+    
+  </channel>
+</rss>

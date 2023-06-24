@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marks on ossem: a creative space</title>
+    <link>/title/marks/</link>
+    <description>Recent content in Marks on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Jun 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/marks/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Marks</title>
+      <link>/words/2014/marks/</link>
+      <pubDate>Sat, 14 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2014/marks/</guid>
+      <description>This is my notebook.
+There are many like this one.
+But this one is mine.
+With this notebook.
+I can alight realms.
+And destroy a people.
+I am a fleshy weight
+Bundled in tome.</description>
+    </item>
+    
+  </channel>
+</rss>

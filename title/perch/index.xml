@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Perch on ossem: a creative space</title>
+    <link>/title/perch/</link>
+    <description>Recent content in Perch on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 26 May 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/perch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Perch</title>
+      <link>/words/2012/perch/</link>
+      <pubDate>Sat, 26 May 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/perch/</guid>
+      <description>She breaks upon Her
+Perch, timeless.
+We are the golden gods
+Of a silenced age.</description>
+    </item>
+    
+    <item>
+      <title>Perch</title>
+      <link>/words/1995/perch/</link>
+      <pubDate>Mon, 09 Oct 1995 00:00:00 +0000</pubDate>
+      
+      <guid>/words/1995/perch/</guid>
+      <description>charging. Breathing. am i perhaps, alive. in You? can i be? I want to. but i don&amp;#39;t see it. a year seems so long, yet so so far away, a desolate country. but time makes you desolate right?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bright on ossem: a creative space</title>
+    <link>/title/bright/</link>
+    <description>Recent content in Bright on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 08 Dec 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/bright/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bright</title>
+      <link>/words/2011/12/bright/</link>
+      <pubDate>Thu, 08 Dec 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/12/bright/</guid>
+      <description>orange bread
+Strange dreads
+She speaks to me</description>
+    </item>
+    
+    <item>
+      <title>Bright</title>
+      <link>/words/2011/bright/</link>
+      <pubDate>Fri, 13 May 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/bright/</guid>
+      <description>Here I am Dancing in the wilderness. This secret is clutched in my grasps. I swing wildly with my right foot. I pound slightly with my left foot. They each sing the others’ praise. The dust swirls with such high regard. The long tail of wind directs beige perspective. A mound forms beneath, To the side, And on the top of its side, A cacophonoph approaches I find the right swings under me, The left swoops in front.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pound on ossem: a creative space</title>
+    <link>/title/pound/</link>
+    <description>Recent content in Pound on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Jul 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/pound/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pound</title>
+      <link>/words/2015/pound/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2015/pound/</guid>
+      <description>We are dark. We are deep. We are discrete. She leads me into the mystery. The misery. The ease. Sum of the parts. And the ton. Hash of the gold. Blue hush. Blinded by the metaled bye. Her harsh belt slighted a soft cheek. A family. Tumultuous. Second hindquadrant. Precious immigration. Disguise my blinded eye. She is here. In my clear. How do I hold you? The fear is real. Every night.</description>
+    </item>
+    
+    <item>
+      <title>Pound</title>
+      <link>/words/2011/pound/</link>
+      <pubDate>Sun, 18 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/pound/</guid>
+      <description>Something stakes me
+Relieves me.
+Cupboard basket.
+Cake smash it.</description>
+    </item>
+    
+  </channel>
+</rss>

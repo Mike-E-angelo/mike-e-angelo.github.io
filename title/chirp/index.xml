@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chirp on ossem: a creative space</title>
+    <link>/title/chirp/</link>
+    <description>Recent content in Chirp on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Apr 2010 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/chirp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Chirp</title>
+      <link>/words/2010/chirp/</link>
+      <pubDate>Tue, 13 Apr 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2010/chirp/</guid>
+      <description>Look at all this green.
+Like a wall.
+Like a fortress.
+Boxed in.
+So green.
+So close.
+And the chirps.
+Chipper-chirper.
+I count 5 birds.
+2 here.
+3 there.
+This one over here stops when I walk this way.
+This one over here stops when I listen too closely.
+Like an old-skool hunter.
+I read the Ether by chirp.
+Now I sing with my new friends.
+Mimic this one. I can do the tonality.</description>
+    </item>
+    
+  </channel>
+</rss>

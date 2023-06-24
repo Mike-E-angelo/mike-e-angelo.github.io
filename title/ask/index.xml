@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ask on ossem: a creative space</title>
+    <link>/title/ask/</link>
+    <description>Recent content in Ask on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/ask/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ask</title>
+      <link>/words/2012/ask/</link>
+      <pubDate>Sun, 04 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/ask/</guid>
+      <description>It’s a dead end rodeo. Which way will you go. I choose peace. I choose mayhem. That’s funny. That’s not where you were Seconds ago. Tell you what. (we’ll flip a coin). Flip One. (here it goes). Flip two (here’s his campaign manager). Flip three. (here’s to you and me). Get that out of your system? Grind and mind, actually. I’m sure. OK? A protective bith slap… Is he,… watching his language?</description>
+    </item>
+    
+  </channel>
+</rss>

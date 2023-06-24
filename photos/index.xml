@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photos on ossem: a creative space</title>
+    <link>/photos/</link>
+    <description>Recent content in Photos on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 29 Jul 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep</title>
+      <link>/photos/deep/</link>
+      <pubDate>Mon, 29 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/deep/</guid>
+      <description>Burning my copy of Garbage and the Goddess, as instructed.</description>
+    </item>
+    
+    <item>
+      <title>Rock</title>
+      <link>/photos/rock/</link>
+      <pubDate>Fri, 28 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/rock/</guid>
+      <description>Page 87 of Garbage and the Goddess. What struck me about this image was the overwhelmingly male energy presented in the foreground of this photo with a powerful-looking female in the background, somehow keeping everyone in check. I sketched my own variation of this photo here.</description>
+    </item>
+    
+  </channel>
+</rss>

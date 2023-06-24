@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pi on ossem: a creative space</title>
+    <link>/title/pi/</link>
+    <description>Recent content in Pi on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/pi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pi</title>
+      <link>/sketches/pi/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/sketches/pi/</guid>
+      <description>She has presences In the Electric view A blinding stew … of plight and magic … A diplomatic Coefficient Bristled into Her Majestic (and few) (This is my first digital drawing, done on Leonardo. The character is based on Loish&amp;rsquo;s Huntress, which is easily my favorite work of hers. I liked it so much that I felt the need to mimic it and finally give this whole digital art thing a try.</description>
+    </item>
+    
+  </channel>
+</rss>

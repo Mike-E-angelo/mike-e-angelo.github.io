@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Boxes on ossem: a creative space</title>
+    <link>/boxes/</link>
+    <description>Recent content in Boxes on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/boxes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tin</title>
+      <link>/boxes/tin/</link>
+      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/tin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gold</title>
+      <link>/boxes/gold/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/gold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lead</title>
+      <link>/boxes/lead/</link>
+      <pubDate>Sat, 19 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/lead/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steel</title>
+      <link>/boxes/steel/</link>
+      <pubDate>Mon, 05 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/steel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Copper</title>
+      <link>/boxes/copper/</link>
+      <pubDate>Mon, 06 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/copper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brass</title>
+      <link>/boxes/brass/</link>
+      <pubDate>Sun, 12 Jun 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/brass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zinc</title>
+      <link>/boxes/zinc/</link>
+      <pubDate>Tue, 17 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/boxes/zinc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

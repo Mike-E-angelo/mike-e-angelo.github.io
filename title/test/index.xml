@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on ossem: a creative space</title>
+    <link>/title/test/</link>
+    <description>Recent content in Test on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 22 Oct 2011 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>/words/2011/10/test/</link>
+      <pubDate>Sat, 22 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/10/test/</guid>
+      <description>Reject me.
+Be with me.
+Your son. Has.
+Curious behavior.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>/words/2011/test/</link>
+      <pubDate>Sat, 03 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/test/</guid>
+      <description>What does it mean to take a knee? Will you watch it with me? There’s a deeper meaning in Everything that we do. A correspondence. A coalescence. When you sit there. And test the boundaries of others. There’s a certain prospect. Of rejection. When this rejection becomes part of you. You stand upon a pedestal of Perspective. When this perspective has sat upon you. You know your place. Now then, Let us continue?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Love on ossem: a creative space</title>
+    <link>/title/love/</link>
+    <description>Recent content in Love on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 19 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/love/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Love</title>
+      <link>/words/2012/love/</link>
+      <pubDate>Sun, 19 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/love/</guid>
+      <description>Death. Life. Is that your wife?
+Soldiers understand the meanings.
+Just don&amp;rsquo;t think of these while sleeping.</description>
+    </item>
+    
+    <item>
+      <title>Love</title>
+      <link>/words/2011/love/</link>
+      <pubDate>Sat, 22 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2011/love/</guid>
+      <description>A strange house
+Phenomena is your key
+Watch your mind.</description>
+    </item>
+    
+  </channel>
+</rss>

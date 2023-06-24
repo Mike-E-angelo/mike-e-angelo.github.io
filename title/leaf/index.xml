@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leaf on ossem: a creative space</title>
+    <link>/title/leaf/</link>
+    <description>Recent content in Leaf on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 03 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/leaf/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Leaf</title>
+      <link>/notes/2018/leaf/</link>
+      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/notes/2018/leaf/</guid>
+      <description>Phenomena is mind control.
+In remembrance of July 3rd, 1971.
+
+May you rest in the peace
+that you so rightfully deserve,
+good sir.</description>
+    </item>
+    
+  </channel>
+</rss>

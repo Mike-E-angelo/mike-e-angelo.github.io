@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lick on ossem: a creative space</title>
+    <link>/title/lick/</link>
+    <description>Recent content in Lick on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/lick/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lick</title>
+      <link>/words/2012/lick/</link>
+      <pubDate>Sun, 15 Jan 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/lick/</guid>
+      <description>Fire up your gods.
+R
+A valued goddess
+Has stories in her chest.</description>
+    </item>
+    
+  </channel>
+</rss>

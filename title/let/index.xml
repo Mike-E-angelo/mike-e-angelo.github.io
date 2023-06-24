@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Let on ossem: a creative space</title>
+    <link>/title/let/</link>
+    <description>Recent content in Let on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Feb 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/let/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Let</title>
+      <link>/words/2012/let/</link>
+      <pubDate>Sat, 04 Feb 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/let/</guid>
+      <description>How do I live up to this? Looking to the side stage. My Stage. You caught it, you bought it. I’m flipping caps here. I don’t think I can dance this stepfloor. … and then… “I’m sort of interested in honesty.” Ya, what is honesty, anyways? Honesty is reaching for the wrong bottle. And knowing it. Honesty is predicting the future. Then facing it. Honesty is consistency. Didn’t you say that consistency is key?</description>
+    </item>
+    
+  </channel>
+</rss>

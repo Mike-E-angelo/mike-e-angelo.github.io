@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dish on ossem: a creative space</title>
+    <link>/title/dish/</link>
+    <description>Recent content in Dish on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 18 Oct 1993 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/dish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dish</title>
+      <link>/sketches/dish/</link>
+      <pubDate>Mon, 18 Oct 1993 00:00:00 +0000</pubDate>
+      
+      <guid>/sketches/dish/</guid>
+      <description>A little artwork I did for a Christian radio station in Manhattan, Kansas when I was in high school.</description>
+    </item>
+    
+  </channel>
+</rss>

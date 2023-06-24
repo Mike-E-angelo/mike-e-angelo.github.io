@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temp on ossem: a creative space</title>
+    <link>/title/temp/</link>
+    <description>Recent content in Temp on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 Jul 2005 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/temp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Temp</title>
+      <link>/words/2005/temp/</link>
+      <pubDate>Wed, 20 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2005/temp/</guid>
+      <description>it’s crazy outside and she’s in here with me crazy in here too. wandering in that forest once again. paths in hundreds of directions of paths the trees dream of me anything to be their hero her smile seems so far away from the likes of me bathing in tragedy I am rife with brooding tendrils</description>
+    </item>
+    
+  </channel>
+</rss>

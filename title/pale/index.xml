@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pale on ossem: a creative space</title>
+    <link>/title/pale/</link>
+    <description>Recent content in Pale on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/pale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pale</title>
+      <link>/words/2018/pale/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2018/pale/</guid>
+      <description>She has a predilection For tawdry destinations. She’s had too much (what’s one more?) Just one more. She’s taken the hit. The strife. Oh, the drama. She can’t get enough. She can’t get enough. (She’ll never come down now.) Once all the stars die out. Her angels flame out. Will She pick up this rock again? Or leave it for dead? Star struck. Never lucked out. Just Her cavern of doubt And sworn hallows.</description>
+    </item>
+    
+  </channel>
+</rss>

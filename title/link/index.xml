@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Link on ossem: a creative space</title>
+    <link>/title/link/</link>
+    <description>Recent content in Link on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Dec 2012 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Link</title>
+      <link>/words/2012/link/</link>
+      <pubDate>Mon, 24 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2012/link/</guid>
+      <description>And here. We are beautifully broken. So perfectly lost. How did we get here? So fairytale. A lost ship has sunk. From its coast, it dares not tell. Angels swoop upon the treasure. (it is their pleasure) Collect the gold. It’s greed, after all. Timeless classic. Pace a time’s forth. (are you in love again?) There is something to be bought. A price that is sought. There are stories to be won.</description>
+    </item>
+    
+    <item>
+      <title>Link</title>
+      <link>/words/2005/link/</link>
+      <pubDate>Mon, 25 Jul 2005 00:00:00 +0000</pubDate>
+      
+      <guid>/words/2005/link/</guid>
+      <description>the look in her eye makes me wonder if her story is deep within me traveling vast levels spiraling down my spine that smile so weak trembling off that corner haunting past must be it don’t unlock it makes it worse climb that mountain now that’s an adventure ah, her trials so innocent and i’m so guilty that look of hers is the look of mine</description>
+    </item>
+    
+  </channel>
+</rss>

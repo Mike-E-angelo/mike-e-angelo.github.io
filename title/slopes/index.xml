@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slopes on ossem: a creative space</title>
+    <link>/title/slopes/</link>
+    <description>Recent content in Slopes on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 22 Mar 2006 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/title/slopes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slopes</title>
+      <link>/stories/2006/slopes/</link>
+      <pubDate>Wed, 22 Mar 2006 00:00:00 +0000</pubDate>
+      
+      <guid>/stories/2006/slopes/</guid>
+      <description>As I got ready to leave to say my goodbyes, I noticed she got up to head upstairs before me. It was curious behavior, consistent with what I’ve seen from her all night. I made my round, hugging each person who had touched my life this clear misty morning. The subtle shadows of pine needles from the outside greens were starting to darken on the nearby windows. The sun was creeping into our consciousness.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quest for Glory on ossem: a creative space</title>
+    <link>/tags/quest-for-glory/</link>
+    <description>Recent content in Quest for Glory on ossem: a creative space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 13 Feb 1994 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/quest-for-glory/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Own</title>
+      <link>/sketches/own/</link>
+      <pubDate>Sun, 13 Feb 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/sketches/own/</guid>
+      <description>The warrior from Quest for Glory I (now Hero-U).</description>
+    </item>
+    
+    <item>
+      <title>Take</title>
+      <link>/sketches/take/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      
+      <guid>/sketches/take/</guid>
+      <description>The thief from Quest for Glory I (now Hero-U).</description>
+    </item>
+    
+  </channel>
+</rss>
