@@ -4,4 +4,4 @@ This is an art project that I started in 2018 that assembled all my works up to 
 
 As mentioned this project was first published in 2018 under a previous psuedo/quasi-anonymn ossem.  I have since dropped that name in favor of my current one, Mike-E-angelo.  These works start from high school and go through 2019, when I started to build starbeam.one.
 
-I have chosen to re-publish it for historical/sentimental value, but also to have a better idea of the artist who is suddenly running an art platform that is thankfully starting to show a little success.
+I have chosen to re-publish it for historical/sentimental value, but also to perhaps provide a better idea of the artist who is suddenly running an art platform that is thankfully starting to show a little success.
