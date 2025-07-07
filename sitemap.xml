@@ -33,11 +33,6 @@
   </url>
   
   <url>
-    <loc>/boxes/tin/</loc>
-    <lastmod>2019-06-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/title/</loc>
     <lastmod>2019-06-30T00:00:00+00:00</lastmod>
   </url>
@@ -85,11 +80,6 @@
   <url>
     <loc>/words/2018/spike/</loc>
     <lastmod>2018-12-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/boxes/gold/</loc>
-    <lastmod>2018-07-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -248,6 +238,11 @@
   </url>
   
   <url>
+    <loc>/boxes/gold/</loc>
+    <lastmod>2018-06-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/title/grain/</loc>
     <lastmod>2018-06-02T00:00:00+00:00</lastmod>
   </url>
@@ -274,6 +269,11 @@
   
   <url>
     <loc>/about/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/boxes/tin/</loc>
     <lastmod>2018-06-01T00:00:00+00:00</lastmod>
   </url>
   

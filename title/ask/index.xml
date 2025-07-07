@@ -6,11 +6,7 @@
     <description>Recent content in Ask on ossem: a creative space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/title/ask/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 04 Nov 2012 00:00:00 +0000</lastBuildDate><atom:link href="/title/ask/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ask</title>
       <link>/words/2012/ask/</link>

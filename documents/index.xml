@@ -6,11 +6,7 @@
     <description>Recent content in Documents on ossem: a creative space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Mar 2010 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/documents/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 02 Mar 2010 00:00:00 +0000</lastBuildDate><atom:link href="/documents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes</title>
       <link>/documents/notes/</link>

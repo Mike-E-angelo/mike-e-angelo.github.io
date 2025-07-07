@@ -6,26 +6,22 @@
     <description>Recent content in Boxes on ossem: a creative space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/boxes/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 30 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/boxes/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Tin</title>
-      <link>/boxes/tin/</link>
-      <pubDate>Sun, 30 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Gold</title>
+      <link>/boxes/gold/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/boxes/tin/</guid>
+      <guid>/boxes/gold/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gold</title>
-      <link>/boxes/gold/</link>
-      <pubDate>Tue, 03 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Tin</title>
+      <link>/boxes/tin/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>/boxes/gold/</guid>
+      <guid>/boxes/tin/</guid>
       <description></description>
     </item>
     
